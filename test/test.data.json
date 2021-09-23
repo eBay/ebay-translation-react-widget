@@ -1,0 +1,86 @@
+{
+    "TITLE_TRANSLATE": {
+        "from": "en",
+        "to": "de",
+        "translations": [
+            {
+                "originalText": "This is a test title",
+                "translatedText": "Dies ist ein Testtitel"
+            }
+        ]
+    },
+    "DESCRIPTION_TRANSLATE": {
+        "from": "en",
+        "to": "fr",
+        "translations": [
+            {
+                "originalText": "This is a test description",
+                "translatedText": "Il s'agit d’une description de test"
+            }
+        ]
+    },
+    "TRANSLATE_BY_ID": {
+        "title": {
+            "from": "en",
+            "to": "fr",
+            "translations": [
+                {
+                    "originalText": "Phone - 128GB - All Colors - Unlocked - Very Good Condition ",
+                    "translatedText": "Phone - 128 Go-Toutes les couleurs-Débloqué-Très bon état"
+                }
+            ]
+        },
+        "description": {
+            "from": "en",
+            "to": "fr",
+            "translations": [
+                {
+                    "originalText": "This is a test description",
+                    "translatedText": "Il s'agit d’une description de test"
+                }
+            ]
+        }
+    },
+    "TRANSLATE_BY_ID__DESCRIPTION_ERR": {
+        "title": {
+            "from": "en",
+            "to": "fr",
+            "translations": [
+                {
+                    "originalText": "Men's Shoes Sports Running Casual Trainers Jogging Athletic Tennis Sneakers Gym",
+                    "translatedText": "Chaussures hommes sport course baskets décontractées Jogging athlétique Tennis Gym"
+                }
+            ]
+        },
+        "description": {
+            "errors": [
+                {
+                    "errorId": 110005,
+                    "domain": "API_TRANSLATE",
+                    "category": "REQUEST",
+                    "message": "Maximum length of input text reached. For more information, see the API call reference documentation."
+                }
+            ]
+        }
+    },
+    "BROWSE_API_ERROR": {
+        "errors": [
+            {
+                "errorId": 11003,
+                "domain": "API_BROWSE",
+                "category": "REQUEST",
+                "message": "The specified legacy item Id was not found."
+            }
+        ]
+    },
+    "TRANSLATION_API_ERROR": {
+        "errors": [
+            {
+                "errorId": 110007,
+                "domain": "API_TRANSLATE",
+                "category": "REQUEST",
+                "message": "Markups are not supported in input texts for title translation context."
+            }
+        ]
+    }
+}
