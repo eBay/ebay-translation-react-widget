@@ -38,7 +38,23 @@ export const supportedTranslations = [
         supportedTranslations: ['fr', 'it', 'es', 'en']
     },
     {
+        name: 'fr',
+        supportedTranslations: ['en', 'de', 'it', 'es']
+    },
+    {
+        name: 'it',
+        supportedTranslations: ['en', 'de', 'es', 'fr']
+    },
+    {
+        name: 'es',
+        supportedTranslations: ['en', 'de', 'fr', 'it']
+    },
+    {
         name: 'ja',
+        supportedTranslations: ['en']
+    },
+    {
+        name: 'zh',
         supportedTranslations: ['en']
     }
 ];

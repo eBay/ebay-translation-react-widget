@@ -25,7 +25,7 @@ eBay Translation Widget is a fully customizable React component that allows you 
 
 This component provides a responsive UI experience with two different modes:
 
-- **Translation by Text**: Simply enter the item title/description in the textbox, set the traslation context and click Translate
+- **Translation by Text**: Simply enter the eBay item title/description in the textbox, set the translation context and click the Translate button
 
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/35708101/132155875-d90b1f79-9e7d-4222-a7dc-102c3b781391.png" alt="Translation by Text - Title"/>
