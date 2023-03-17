@@ -1,6 +1,6 @@
 {
   "name": "ebay-translation-react-widget",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight, responsive and fully customizable component for React applications to translate eBay item title and description to another language.",
   "main": "index.js",
   "repository": {
@@ -56,7 +56,6 @@
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.6",
     "eslint": "^7.8.1",
-    "eslint-config-airbnb": "^18.2.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-prettier": "^3.1.4",

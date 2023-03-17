@@ -44,7 +44,7 @@ export const EbayTextbox = (props) => {
                 label={props.label}
                 multiline={props.multiline}
                 onChange={props.onChange}
-                rows={props.rows}
+                minRows={props.rows}
                 value={props.value}
                 variant="outlined"
                 InputProps={{
