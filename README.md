@@ -57,7 +57,7 @@ It comes with a ready to use [example](./examples/index.js) and a [NodeJS expres
 ### Prerequisites
 
 ```sh
-- NodeJS (for the example): v12.16 or higher
+- NodeJS (for the example): v16 or higher
 - NPM: v7.5.6 or higher/Yarn: v1.22.10 or higher
 ```
 
